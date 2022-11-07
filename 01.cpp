@@ -8,8 +8,7 @@ int main(){
 
     int altura=10;
     int base=5;
-    int area;
-    int perimetro;
+    int area, perimetro;
 
     area=altura*base;
     perimetro=(altura*2)+(base*2);
