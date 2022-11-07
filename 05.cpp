@@ -11,7 +11,7 @@ int main(){
 
     cout << "Digite um numero: \n";
     cin >> numero;
-    cout << "O sucessor do numero que voce digitou e: " << numero+1 << "\n";
+    cout << "O sucessor do numero que voce digitou e: " << ++numero << "\n";
 
     return 0;
 }
