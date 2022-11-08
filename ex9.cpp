@@ -18,7 +18,7 @@ int main(){
 
         double volume=pi*((raio*raio)*altura);
         
-        cout << "O volume dos valores fornecidos e: " << volume << " cm3 \n";
+        cout << "O volume da lata de oleo que possui os valores fornecidos e: " << volume << " cm3 \n";
 
     return 0;
 }
